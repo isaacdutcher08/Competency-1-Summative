@@ -1,0 +1,35 @@
+CLI FILE RESCUE COMMAND LOG
+
+Student: Isaac Dutcher
+Date: 8/18/2026
+
+Paste or type the important commands you used below. Add a short explanation beside commands marked by your teacher during the mastery conference.
+
+1. move -Path ".\project notes.txt" -Destination ".\docs\project-notes.txt"
+2. cp .\README-original.md -Destination ".\docs\README.md"
+3. ac .\errors-only.txt -Value (sls "ERROR" ..\logs\development.log)
+4. ac .\unique-testers.txt -Value (cat ..\data\testers.txt | Sort-Object -Unique)
+5. ac .\reports\todos.txt -Value (ls .\ -Recurse | sls "TODO")
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
+One command using a relative path: cat .\reports\todos.txt
+
+One command using .. in a path: ac .\errors-only.txt -Value (sls "ERROR" ..\logs\development.log)
+
+One find command: ls .\ -Recurse
+
+One sls command: ac .\errors-only.txt -Value (sls "ERROR" ..\logs\development.log)
+
+One command using output redirection: ac .\reports\todos.txt -Value (ls .\ -Recurse | sls "TODO")
+
+One command using a pipe: ac .\reports\todos.txt -Value (ls .\ -Recurse | sls "TODO")
+test add for commit
