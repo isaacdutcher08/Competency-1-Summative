@@ -1,0 +1,2 @@
+C:\Users\220558\Downloads\CLI_File_Rescue_Student\CLI_File_Rescue_Student\student_materials\project-rescue\docs\project-notes.txt:6:TODO: Add a player inventory after the initial commit.
+C:\Users\220558\Downloads\CLI_File_Rescue_Student\CLI_File_Rescue_Student\student_materials\project-rescue\src\helpers.py:6:# TODO: Add room descriptions during the Python competency.

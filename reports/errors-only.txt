@@ -1,0 +1,3 @@
+C:\Users\220558\Downloads\CLI_File_Rescue_Student\CLI_File_Rescue_Student\student_materials\project-rescue\logs\development.log:3:2026-07-14 ERROR Player spawn point not configured
+C:\Users\220558\Downloads\CLI_File_Rescue_Student\CLI_File_Rescue_Student\student_materials\project-rescue\logs\development.log:5:2026-07-15 ERROR Inventory test failed
+C:\Users\220558\Downloads\CLI_File_Rescue_Student\CLI_File_Rescue_Student\student_materials\project-rescue\logs\development.log:6:2026-07-15 ERROR Save directory unavailable
